@@ -1,6 +1,6 @@
 ### Olá, Eu Sou o Gabriel 👋
 
-<img src="https://camo.githubusercontent.com/9490ad55db10a321797914859491bb5fad226349e46374208d5b53bc868bf128/68747470733a2f2f75706c6f61646465696d6167656e732e636f6d2e62722f696d616765732f3030332f3037332f3036312f66756c6c2f636f6d70757465722d696c6c757374726174696f6e2e706e673f31363132373331383739">
+<img src="https://blog.dankicode.com/wp-content/uploads/2018/03/programador-php-profissional.png">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
