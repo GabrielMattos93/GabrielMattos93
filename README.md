@@ -1,6 +1,6 @@
 ### Olá, Eu Sou o Gabriel 👋
 
-<img src="https://blog.dankicode.com/wp-content/uploads/2018/03/programador-php-profissional.png">
+<img src="https://img1.gratispng.com/20180405/agq/kisspng-web-development-computer-programming-software-deve-coder-5ac6d616c8fe33.9489724415229803748233.jpg">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
