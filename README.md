@@ -1,7 +1,6 @@
-                          
-                          <img src="https://www.programadorphp.com.br/assets/img/banner_centro.png">
+  
+### Olá 👋  <img src="https://www.programadorphp.com.br/assets/img/banner_centro.png">
 
-### Olá 👋
 Sou desenvolvedor PHP em busca de oportunidades e colaboração em projetos relacionados a web.
 - 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
